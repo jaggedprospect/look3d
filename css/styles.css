@@ -1,0 +1,6 @@
+/* Styles for the 3D viewer */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    overflow: hidden;
+}
