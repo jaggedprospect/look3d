@@ -1,0 +1,29 @@
+# .gitignore
+
+# MacOS
+.DS_Store
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.suo
+.ntvs
+*.njsproj
+*.sln
+.sw
+
+# Node.js dependencies
+frontend/node_modules
+
+# Go binaries
+backend/.exe
+backend/.exe~
+backend/.exe/*
+
+# Redis dump files
+*.rdb
+
+# Other
+.env
+ignore.txt
